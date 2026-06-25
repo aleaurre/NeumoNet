@@ -1,0 +1,9 @@
+Arquitectura,Learning Rate,Función de Pérdida,Mejor Val Accuracy
+Híbrida (Con Atención CBAM),0.001,Hibrida_Focal,0.9987244897959183
+Híbrida (Con Atención CBAM),0.001,BCE_Pura,0.9948979591836735
+Híbrida (Con Atención CBAM),0.0005,Hibrida_Focal,0.9974489795918368
+Híbrida (Con Atención CBAM),0.0005,BCE_Pura,0.9948979591836735
+Base (Sin Atención CBAM),0.001,Hibrida_Focal,0.9948979591836735
+Base (Sin Atención CBAM),0.001,BCE_Pura,0.9936224489795918
+Base (Sin Atención CBAM),0.0005,Hibrida_Focal,0.9897959183673469
+Base (Sin Atención CBAM),0.0005,BCE_Pura,0.9910714285714286
